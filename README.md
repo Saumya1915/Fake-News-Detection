@@ -1,1 +1,1 @@
-# Fake-News-Detection
+In this section, we will get a Long Short Term Memory (LSTM) network to detect fake news from a given news corpus. This could be practically used by media companies to automatically predict whether the circulating news is fake or not
