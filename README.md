@@ -1,1 +1,2 @@
 In this section, we will use NLP to detect fake news from a given news corpus. This could be practically used by media companies to automatically predict whether the circulating news is fake or not. A comaparison between different classfication model has been done.
+In pandemic situation where there is a lot of fake news floating in the society we need to take care we are able filter the news as real or fake.
