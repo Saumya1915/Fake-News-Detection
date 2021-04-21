@@ -1,1 +1,1 @@
-In this section, we will get a Long Short Term Memory (LSTM) network to detect fake news from a given news corpus. This could be practically used by media companies to automatically predict whether the circulating news is fake or not
+In this section, we will use NLP to detect fake news from a given news corpus. This could be practically used by media companies to automatically predict whether the circulating news is fake or not. A comaparison between different classfication model has been done.
